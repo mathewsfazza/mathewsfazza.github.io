@@ -22,6 +22,8 @@ html, body {
     width: 50%;
     height: 100%;
     background-attachment: fixed;
+    /* overflow-y: scroll;
+    overflow-x: hidden; */
 }
 
 #imageLeft {
